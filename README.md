@@ -1,6 +1,10 @@
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Please input the metrics to convert. For example: 1 kg = g
+
+Enter 'exit' to exit the program
+
+If your input is not handled, Please try again. Please input the metrics to convert. For example: 1 kg = g
 
 ## Folder Structure
 
